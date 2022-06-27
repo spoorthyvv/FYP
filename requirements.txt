@@ -1,6 +1,6 @@
 
 
-oauth2-lib
+
 oauthlib==3.1.0
 
 olefile==0.46
