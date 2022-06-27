@@ -1,8 +1,4 @@
 
-sklearn-transformer-extensions
-
-
-
 smart-open==6.0.0
 smmap==5.0.0
 sniffio==1.2.0
