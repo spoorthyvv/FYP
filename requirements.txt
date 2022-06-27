@@ -46,7 +46,7 @@ charset-normalizer==2.0.4
 click==8.0.3
 cmake==3.22.4
 
-command-not-found==0.3
+
 counterfit-connection==0.1.0.dev5
 counterfit-shims-picamera==0.1.0.dev5
 cryptography==36.0.1
@@ -341,7 +341,7 @@ st-annotated-text==3.0.0
 starlette==0.17.1
 statistic==0.1.6
 stevedore==3.5.0
-streamlit==1.8.1
+streamlit
 streamlit-webrtc==0.36.1
 structlog==20.2.0
 subprocess32==3.5.4
