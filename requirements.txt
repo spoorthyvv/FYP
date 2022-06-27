@@ -24,3 +24,7 @@ tensorflow==2.8.0
 torch
 transformers==4.18.0
 Cython
+opencv-python
+ffmpeg
+libsm6
+libxext6
