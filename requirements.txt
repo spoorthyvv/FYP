@@ -72,7 +72,7 @@ Deprecated==1.2.12
 dill==0.3.4
 distlib==0.3.4
 distro==1.4.0
-distro-info===0.23ubuntu1
+distro
 Django==4.0.4
 dlib==19.23.1
 dnspython==2.2.1
