@@ -13,7 +13,6 @@ altair-saver==0.5.0
 altair-viewer==0.4.0
 anyio==3.5.0
 appdirs==1.4.4
-apturl==0.5.2
 argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
 asgiref==3.5.0
