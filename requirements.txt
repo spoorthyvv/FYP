@@ -157,7 +157,9 @@ jupyter-console==6.4.0
 jupyter-core==4.9.1
 jupyterlab-pygments==0.1.2
 jupyterlab-widgets==1.0.2
-kazam==1.4.5
+
+
+
 keras==2.8.0
 Keras-Preprocessing==1.1.2
 keyring==18.0.1
