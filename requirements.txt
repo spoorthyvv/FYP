@@ -2,7 +2,7 @@
 
 
 urllib3==1.26.8
-usb-creator==0.3.7
+
 uvicorn==0.16.0
 uvloop==0.16.0
 validators==0.18.2
