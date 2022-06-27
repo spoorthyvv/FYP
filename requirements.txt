@@ -73,7 +73,8 @@ dill==0.3.4
 distlib==0.3.4
 distro==1.4.0
 distro
-Django==4.0.4
+
+django-codenerix
 dlib==19.23.1
 dnspython==2.2.1
 duplicity==0.8.12.0
