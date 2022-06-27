@@ -1,5 +1,5 @@
 
-python-debian===0.1.36ubuntu1
+
 python-dotenv==0.20.0
 python-editor==1.0.4
 python-Levenshtein==0.12.2
