@@ -50,7 +50,10 @@ cmake==3.22.4
 counterfit-connection==0.1.0.dev5
 counterfit-shims-picamera==0.1.0.dev5
 cryptography==36.0.1
-cupshelpers==1.0
+
+
+
+tech-inspection-service-client
 cycler==0.10.0
 cymem==2.0.6
 Cython==0.29.28
