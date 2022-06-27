@@ -62,7 +62,10 @@ debugpy==1.5.1
 decorator==4.4.2
 deepface==0.0.74
 deepmerge==0.1.0
-defer==1.0.6
+pytest-defer
+
+
+
 defusedxml==0.7.1
 demos==0.0.1
 Deprecated==1.2.12
